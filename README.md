@@ -303,7 +303,7 @@ The app uses the **SpaceX v4 REST API**:
 |---|---|---|
 | `https://api.spacexdata.com/v4/rockets` | `GET` | Returns an array of all SpaceX rocket objects |
 
-**Example rocket object (simplified):**
+**Example rocket object (simplifid):**
 
 ```json
 {
